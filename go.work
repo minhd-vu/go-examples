@@ -4,3 +4,4 @@ use ./hello
 use ./greetings
 use ./generics
 use ./fuzz
+use ./web-service-gin
